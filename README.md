@@ -14,6 +14,9 @@ Splash screens are used to display some animations (typically of the application
 
 A Lottie is a JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
 
+Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
+For the first time, designers can create and ship beautiful animations without an engineer painstakingly recreating it by hand. They say a picture is worth 1,000 words so here are 13,000:
+
 - It is multi-platform. You can use Lottie files on iOS, Android, web and React Native without modification.
 - It is resolution independent and scalable at run-time.
 - Its file size is super small
