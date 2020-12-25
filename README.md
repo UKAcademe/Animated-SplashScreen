@@ -12,6 +12,15 @@ Splash screens are used to display some animations (typically of the application
 
 ## What is Lottie and why Lottie
 
+A Lottie is a JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
+
+- It is multi-platform. You can use Lottie files on iOS, Android, web and React Native without modification.
+- It is resolution independent and scalable at run-time.
+- Its file size is super small
+- Allows for high quality animations on multiple platforms and resolutions by mixing vector and raster elements and applying transformations at run-time.
+- Exposes animation elements and parameters to use as targeting elements to add interactivity and manipulate at run-time.
+
+
 ## Preview
 <img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
 
