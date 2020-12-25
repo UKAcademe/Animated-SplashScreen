@@ -1,6 +1,6 @@
-# Animated Splash Screen
+# Lottie Animated Splash Screen
 
-**Material Animated Android Splash Screen**
+**Lottie Animated Android Splash Screen**
 
 <img src="animated splash screen.gif" align="left"
 width="100"
@@ -9,6 +9,8 @@ width="100"
 Android Splash Screen is the first screen visible to the user when the application’s launched. Splash screen is one of the most vital screens in the application since it’s the user’s first experience with the application.
 
 Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched.
+
+## What is Lottie and why Lottie
 
 ## Preview
 <img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
