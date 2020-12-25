@@ -29,6 +29,12 @@ For the first time, designers can create and ship beautiful animations without a
 
 ## Implementation
 
+Add lottie as a gradle dependency to our android project in android studio
+For this, just go into your app level build.gradle file located at app/build.gradle and add the following lines in dependencies code block.
+
+```groovy
+implementation 'com.airbnb.android:lottie:3.5.0'
+```
 first open the layout file where you wish to add the animation, and add the below code under the root layout or wherever you want to add the animation.
 
 ```groovy
