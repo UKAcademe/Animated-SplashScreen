@@ -10,7 +10,7 @@ Android Splash Screen is the first screen visible to the user when the applicati
 
 Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched.
 
-## What is Lottie and why Lottie
+## What is Lottie and Why Lottie
 
 A Lottie is a JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
 
