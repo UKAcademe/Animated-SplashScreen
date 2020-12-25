@@ -42,8 +42,9 @@ first open the layout file where you wish to add the animation, and add the belo
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
         app:lottie_rawRes="@raw/splashscreen" />
-        ```
-        
+```
+</br>
+</br>
 Now the timer is based on `postDelayed()` public method. This method will help us to queue a process to a certain period of time that we set for the method and app will perform that task after that time period.
 
 First we set the time for the timer using a very simple `int SPLASH_TIME` variable
