@@ -28,6 +28,22 @@ For the first time, designers can create and ship beautiful animations without a
 <img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
 
 ## Implementation
+
+first open the layout file where you wish to add the animation, and add the below code under the root layout or wherever you want to add the animation.
+
+```groovy
+ <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/splashscreen" />
+        ```
+        
 Now the timer is based on `postDelayed()` public method. This method will help us to queue a process to a certain period of time that we set for the method and app will perform that task after that time period.
 
 First we set the time for the timer using a very simple `int SPLASH_TIME` variable
