@@ -1,6 +1,6 @@
 # Animated Splash Screen
 
-**Material Android Splash Screen**
+**Material Animated Android Splash Screen**
 
 <img src="app/src/main/res/drawable/logo.png" align="left"
 width="100"
