@@ -35,9 +35,9 @@ For this, just go into your app level build.gradle file located at app/build.gra
 ```groovy
 implementation 'com.airbnb.android:lottie:3.5.0'
 ```
-</br>
+
 first open the layout file where you wish to add the animation, and add the below code under the root layout or wherever you want to add the animation.
-</br>
+
 
 ```groovy
  <com.airbnb.lottie.LottieAnimationView
