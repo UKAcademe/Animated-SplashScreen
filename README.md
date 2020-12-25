@@ -72,7 +72,10 @@ new Handler().postDelayed(new Runnable() {
         }, SPLASH_TIME);
 ```
 
+## Credits
 
+
+* [LottieFiles](https://lottiefiles.com/)
 
 <br><br>
 <h4>Hey, while you're here why don't you think of following Us for awesome projects like this, ah? <a href="https://github.com/UKAcademe">Follow Us on Our Profile!</a></h4>
