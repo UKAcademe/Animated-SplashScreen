@@ -1,4 +1,4 @@
-# Animated-SplashScreen
+# Animated Splash Screen
 
 **Material Android Splash Screen**
 
