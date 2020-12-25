@@ -3,7 +3,7 @@
 **Material Animated Android Splash Screen**
 
 <img src="animated splash screen.gif" align="left"
-width="150"
+width="100"
     hspace="10" vspace="10">
 
 Android Splash Screen is the first screen visible to the user when the application’s launched. Splash screen is one of the most vital screens in the application since it’s the user’s first experience with the application.
